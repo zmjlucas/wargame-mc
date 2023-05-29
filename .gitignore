@@ -1,0 +1,17 @@
+.idea/
+.idea_modules/
+
+.gradle
+
+out/
+run/
+build/
+**/build/
+
+src/generated
+src/test
+
+*.class
+*.iml
+*.ipr
+*.iws
